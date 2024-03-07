@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositório de Documentos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            overflow: hidden; /* Limpa as flutuações */
+            display: flex;
+            align-items: center; /* Alinha verticalmente os itens */
+        }
+        .logo {
+            width: 150px; /* Ajuste o tamanho da imagem conforme necessário */
+            height: auto;
+            margin-right: 20px; /* Adiciona um espaço entre a imagem e o texto */
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            color: #333;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            font-size: 24px;
+            color: #007bff;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s ease;
+        }
+        a:hover {
+            color: #007bff;
+            text-decoration: underline;
+        }
+        .search-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            margin-right: 10px;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <img class="logo" src="images/labquim.webp" alt="Logo do Laboratório de Química Forense">
+        <h1>Laboratório de Química Forense</h1>
+    </header>
+    <div class="search-container">
+        <form id="searchForm">
+            <input type="text" id="searchInput" placeholder="Pesquisar...">
+            <input type="submit" value="Pesquisar">
+        </form>
+    </div>
+    <h2>Repositório de Documentos</h2>
+    <ul id="documentList">
+        <li><a href="link_para_documento_1.pdf">Análise de IV por extração</a></li>
+        <li><a href="link_para_documento_2.pdf">Exame preliminar para anfetaminas</a></li>
+        <li><a href="link_para_documento_3.pdf">Escala de Trabalho</a></li>
+        <!-- Adicione mais itens conforme necessário -->
+    </ul>
+</div>
+
+<script>
+    document.getElementById("searchInput").addEventListener("input", function() {
+        var input, filter, ul, li, a, i, txtValue;
+        input = document.getElementById('searchInput');
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("documentList");
+        li = ul.getElementsByTagName('li');
+        for (i = 0; i < li.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            txtValue = a.textContent || a.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+
+    });
+
+    // Organizar os links em ordem alfabética
+    var list = document.getElementById("documentList");
+    var items = list.childNodes;
+    var itemsArr = [];
+    for (var i in items) {
+        if (items[i].nodeType == 1) { // consider only elements (type 1)
+            itemsArr.push(items[i]);
+        }
+    }
+    itemsArr.sort(function(a, b) {
+        var textA = a.textContent.trim().toUpperCase();
+        var textB = b.textContent.trim().toUpperCase();
+        return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+    });
+    itemsArr.forEach(function(item) {
+        list.appendChild(item);
+    });
+</script>
+
+</body>
+</html>
