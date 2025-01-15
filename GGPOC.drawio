@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Página-1" id="0K0YXG1McnX2W62Tz3sX">
-    <mxGraphModel dx="4709" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4366" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,9 +29,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-59" edge="1">
@@ -76,9 +73,9 @@
             <mxPoint x="570" y="300" as="sourcePoint" />
             <mxPoint x="620" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="250" />
-              <mxPoint x="320" y="250" />
-              <mxPoint x="690" y="250" />
+              <mxPoint x="190" y="360" />
+              <mxPoint x="330" y="360" />
+              <mxPoint x="690" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,9 +84,10 @@
             <mxPoint x="760" y="250" as="sourcePoint" />
             <mxPoint x="810" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="250" />
-              <mxPoint x="1080" y="250" />
-              <mxPoint x="1200" y="250" />
+              <mxPoint x="690" y="360" />
+              <mxPoint x="890" y="360" />
+              <mxPoint x="1070" y="360" />
+              <mxPoint x="1200" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-26" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;VÂNIA LIMA&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CEPGQ (FGS-1)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="850" y="660" width="110" height="60" as="geometry" />
+          <mxGeometry x="845" y="660" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-33" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;OSSAMU&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CCAM (FGS-1&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="980" y="660" width="110" height="60" as="geometry" />
@@ -125,14 +123,20 @@
         <mxCell id="xnhlpHmmhGfdedn4X0CP-35" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;RAFAEL LEITE&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CRH (FGS-2)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="1240" y="660" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnhlpHmmhGfdedn4X0CP-36" target="XVnj3DxYSI7z3LRQhKSB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-36" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;EDNA ROSA&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ASSESSORIA E COMUNICAÇÃO (FGS-2)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;COORDENAÇÃO DE PROJETOS ESTRATÉGICOS&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-38" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;LUIZA SANTOS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CAJ (FGA-1)&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="410" as="sourcePoint" />
+            <mxPoint x="1030.04" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-47" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;LUCIANO LIRA&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CIODS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="-260" y="660" width="110" height="60" as="geometry" />
@@ -140,23 +144,29 @@
         <mxCell id="xnhlpHmmhGfdedn4X0CP-48" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;MILTON ANTONINO&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CCV (FGA-1)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="530" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-51" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;LUIZA SANTOS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CAJ (FGA-1)&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XVnj3DxYSI7z3LRQhKSB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xnhlpHmmhGfdedn4X0CP-59" target="XVnj3DxYSI7z3LRQhKSB-5">
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnhlpHmmhGfdedn4X0CP-59" target="XVnj3DxYSI7z3LRQhKSB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-59" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;EDUARDO FERREIRA&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;CTI (FGA-1)&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XVnj3DxYSI7z3LRQhKSB-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;DJALMA&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;CGF&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XVnj3DxYSI7z3LRQhKSB-5" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;FÁBIO ALVIM&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;SUPORTE (FGA-1)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="789" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XVnj3DxYSI7z3LRQhKSB-11" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;MÁRCIO LIMA&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ASSESSORIA (FGA-1)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XVnj3DxYSI7z3LRQhKSB-21" target="xnhlpHmmhGfdedn4X0CP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-21" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;DANIELA TAVARES&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;(FGA-1)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;ASSESSORIA&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-25" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;DIMAS GUERRA (FGA-1) PROTOCOLO&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
