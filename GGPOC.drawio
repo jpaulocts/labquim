@@ -14,7 +14,7 @@
             <mxPoint x="690" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;GGPOC&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-2" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;WAGNER BEZERRA&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;GGPOC (FDA)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="620" y="80" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-26" edge="1">
@@ -37,10 +37,10 @@
         <mxCell id="xnhlpHmmhGfdedn4X0CP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XVnj3DxYSI7z3LRQhKSB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="XVnj3DxYSI7z3LRQhKSB-1">
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="XVnj3DxYSI7z3LRQhKSB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DIPLAG&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;DIPLAG&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="1140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-4" target="xnhlpHmmhGfdedn4X0CP-7" edge="1">
@@ -65,7 +65,7 @@
         <mxCell id="xnhlpHmmhGfdedn4X0CP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-4" target="xnhlpHmmhGfdedn4X0CP-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DIPOC&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;DIPOC&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-4" target="xnhlpHmmhGfdedn4X0CP-2" edge="1">
@@ -90,19 +90,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IC&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="660" width="110" height="60" as="geometry" />
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-7" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ROGÉRIO DANTAS&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;IC&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="659" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IML&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-8" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;PAULO ERNANDO&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;IML&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="10" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;IGF&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-9" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;JOSUÉ JEYSON&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;IGF&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="135" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;GINTER 2&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-10" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;GILMÁRIO DOS ANJOS&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;GINTER 2&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="390" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;GINTER 1&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-11" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;THERCIO BARRETO&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;GINTER 1&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="260" y="660" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.445;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-4" target="xnhlpHmmhGfdedn4X0CP-11" edge="1">
@@ -110,40 +110,40 @@
             <mxPoint x="348" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CEPGQ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-26" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;VÂNIA LIMA&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CEPGQ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="850" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDENAÇÃO DE CONTRATOS E ADMINISTRAÇÃO GERAL&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-33" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;OSSAMU&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CCAM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="980" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDENAÇÃO&amp;nbsp; ENG. E INFRAESTRUTURA&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-34" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ABNER QUEIROZ&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CINFRA&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="1110" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDENAÇÃO&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;RECURSOS HUMANOS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-35" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;RAFAEL LEITE&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CRH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="1240" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-36" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ASSESSORIA E COMUNICAÇÃO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-36" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ASSESSORIA E COMUNICAÇÃO&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDENAÇÃO DE PROJETOS ESTRATÉGICOS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;COORDENAÇÃO DE PROJETOS ESTRATÉGICOS&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#3399FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnhlpHmmhGfdedn4X0CP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="xnhlpHmmhGfdedn4X0CP-3" target="xnhlpHmmhGfdedn4X0CP-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-47" value="CIODS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-47" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;LUCIANO LIRA&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CIODS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="-260" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-48" value="CENTRAL CUSTÓDIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-48" value="&lt;div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;MILTON ANTONINO&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CENTRAL CUSTÓDIA&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="530" y="660" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-51" value="ASSESSORIA JURÍDICA" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-51" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;LUIZA SANTOS&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CAJ&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnhlpHmmhGfdedn4X0CP-59" value="COORDENAÇÃO DE TECNOLOGIA DA INFORMAÇÃO" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xnhlpHmmhGfdedn4X0CP-59" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;EDUARDO FERREIRA&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CTI&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XVnj3DxYSI7z3LRQhKSB-1" value="GESTÃO DE FROTA" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
+        <mxCell id="XVnj3DxYSI7z3LRQhKSB-1" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;DIMAS GUERRA&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;CGF&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
